@@ -1,4 +1,11 @@
-This is specious. The author conflates real numbers and whole numbers, with disastrous results. Let us consider what happens when you get down to a single hair. I see several possibilities, and none of them leads to this haircut actually taking forever.
+You Can't Handle The Truth
+=========
+
+The [http://joegp.com/halfcut/](web cartoon) below, featuring a rodent attempting to get a half-off haircut from a perversely literal-minded barber, is by Jeff Mumm.
+
+![web cartoon](half-off.png "Half Off")
+
+The rodent's reasoning is specious. It conflates real numbers and whole numbers, with disastrous results. Let us consider what happens when the rodent is down to one single hair. I see several possibilities, and none of them leads to this haircut actually taking forever.
 
 1) Bust out some sort of "Schrödinger's Hair" rubric, where each repeated visit to the barber incurs a 50% risk of the hair being snipped. This is unsatisfying, as it is contrary to the established practice of deciding which hairs to cut based on partitioning the space remaining on the rodent's body. Also, it wouldn't lead to the haircut taking forever - the expected distribution of expected overall haircut times would look like exponential decay.
 
